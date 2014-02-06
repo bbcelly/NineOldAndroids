@@ -2,6 +2,8 @@
 bin
 gen
 
+library/build
+
 #Eclipse
 .project
 .classpath
